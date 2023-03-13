@@ -1,5 +1,5 @@
 # J Nguyen :octocat: 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Either+Coding+Or+Gaming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Either+Coding+or+Gaming)](https://git.io/typing-svg)
 
 **`Dreamer (Developer/Streamer)`**
 
