@@ -5,7 +5,7 @@
 
 A developer and content creator building their dream virtual environment with one byte at a time. All projects have been created with strategic planning and designing--that is, from intention to invention to adaptation. 
 
-Twitch: [www.twitch.tv/jnncode](url)
+Twitch: (www.twitch.tv/jnncode)
 
 #
 
