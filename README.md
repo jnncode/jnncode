@@ -1,8 +1,6 @@
 # J Nguyen :octocat: 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Either+Coding+or+Gaming)](https://git.io/typing-svg)
 
-**`Dreamer`**
-
 A developer and content creator building their dream virtual environment one byte at a time. All projects have been created with strategic planning and designing--that is, from intention to invention to adaptation. 
 
 Twitch: (www.twitch.tv/jnncode)
